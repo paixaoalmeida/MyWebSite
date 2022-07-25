@@ -1,0 +1,19 @@
+body {
+	background: green;
+
+}
+
+h1 {
+	color: yellow;
+}
+
+p {
+	color: yellow;
+	background: black;
+}
+
+.backgr {
+	height: 100px;
+	background-image:url("../imagens/hunterback.jpeg");
+
+}
