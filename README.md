@@ -1,6 +1,8 @@
 # MyWebSite
 My HTML, CSS and JavaScript TestWebSite
 
-<h2> It looks like this at the moment, i can transite between the pages as well.
+<h2> Trying to understand a little bit more about Web development.
+<br>
 
-<img src="https://user-images.githubusercontent.com/85945510/180837787-1d989e94-bca7-4883-8652-cb2e58b681a6.png">
+https://user-images.githubusercontent.com/85945510/181590531-a88bc7ef-16ba-4fd0-82bb-d4437b5c512b.mp4
+
