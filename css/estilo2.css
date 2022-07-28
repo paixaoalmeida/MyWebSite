@@ -17,3 +17,19 @@ p {
 	background-image:url("../imagens/hunterback.jpeg");
 
 }
+
+.botao {
+	background: yellow;
+	color: black;
+	border: 3px solid;
+	border-radius:30px;
+	padding-top:10px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	text-decoration:none;
+}
+
+.botao:hover {
+	background:red;
+}
