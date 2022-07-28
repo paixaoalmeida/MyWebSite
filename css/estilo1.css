@@ -1,12 +1,20 @@
 body {
 	background: yellow;
         background-image:url("../imagens/hunterback.jpeg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	height:860px;
 }
 
 
 h1 {
 	color: blue;
 	font-size: 68px;
+	border:8px solid black;
+	border-radius:20px;
+	border-color:black;
+	background:black;
+	margin-top:7px;
 }
 
 h2 {
@@ -16,5 +24,39 @@ h2 {
 
 .colorp1{
 	color: yellow;
-	font-size: 10px
+	font-size: 25px;
+	background: black;
 }
+
+.botao2 { 
+        background: yellow;
+        color: black;
+        border: 3px solid;
+        border-radius:30px;
+        padding-top:10px;
+        padding-left:10px;
+        padding-right:10px;
+        padding-bottom:10px;
+        text-decoration:none;
+	margin-top:20px;
+}
+
+.botao2:hover { 
+        background:red;
+}
+
+
+.botaobeg { 
+        background: yellow;
+        color: black;
+        border: 3px solid;
+        border-radius:30px;
+        padding-top:10px;
+        padding-left:10px;
+        padding-right:10px;
+        padding-bottom:10px;
+        text-decoration:none;
+}
+
+.botaobeg:hover {
+        background:red;
